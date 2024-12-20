@@ -1,9 +1,3 @@
-'''
-Authors: Homer Al-Nowaif, Shahd Abdou, Sheikha Al-Qurtas
-CSIS 405 Project: String Elimination 
-Solution 1
-Time Complexity: O(2^n)
-'''
 def brute_force(in_str):
     if not in_str:
         return True
