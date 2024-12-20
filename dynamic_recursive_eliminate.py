@@ -1,9 +1,4 @@
-'''
-Authors: Homer Al-Nowaif, Shahd Abdou, Sheikha Al-Qurtas
-CSIS 405 Project: String Elimination 
-Solution 2
-Time Complexity: O(n^3)
-'''
+
 memory = {}
 
 def can_empty(in_str):
